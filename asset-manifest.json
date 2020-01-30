@@ -1,0 +1,16 @@
+{
+  "main.css": "/metronome/static/css/main.08904fab.chunk.css",
+  "main.js": "/metronome/static/js/main.50cc8f44.chunk.js",
+  "main.js.map": "/metronome/static/js/main.50cc8f44.chunk.js.map",
+  "static/js/1.b95fc706.chunk.js": "/metronome/static/js/1.b95fc706.chunk.js",
+  "static/js/1.b95fc706.chunk.js.map": "/metronome/static/js/1.b95fc706.chunk.js.map",
+  "runtime~main.js": "/metronome/static/js/runtime~main.c60a8487.js",
+  "runtime~main.js.map": "/metronome/static/js/runtime~main.c60a8487.js.map",
+  "static/css/main.08904fab.chunk.css.map": "/metronome/static/css/main.08904fab.chunk.css.map",
+  "static/media/click1.wav": "/metronome/static/media/click1.7a7930a2.wav",
+  "static/media/clef.svg": "/metronome/static/media/clef.96f6e8ca.svg",
+  "static/media/click2.wav": "/metronome/static/media/click2.fe0ded65.wav",
+  "index.html": "/metronome/index.html",
+  "precache-manifest.489bd9b806d3c6b208f6c03ec2abc6f0.js": "/metronome/precache-manifest.489bd9b806d3c6b208f6c03ec2abc6f0.js",
+  "service-worker.js": "/metronome/service-worker.js"
+}
